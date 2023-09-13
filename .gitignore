@@ -1,0 +1,11 @@
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Diretórios de dependências
+/node_modules/
+```
+
+Neste exemplo, `*.log` irá ignorar todos os arquivos com a extensão `.log`, `*.tmp` irá ignorar todos os arquivos com a extensão `.tmp`, e `/node_modules/` irá ignorar o diretório `node_modules` e todo o seu conteúdo.
